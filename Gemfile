@@ -51,3 +51,6 @@ gem 'capistrano-rails', '~> 1.1'
 gem 'capistrano-passenger'
 gem 'capistrano-rvm'
 gem 'capistrano-bundler'
+
+# Schedule
+gem 'whenever', :require => false
